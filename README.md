@@ -5,4 +5,4 @@
 3. di dalam folder yang sudah di unzip, run command prompt
 4. ketik 'composer install' dan enter
 5. jika sudah berhasil menginstall, ketik 'php spark serve' dan enter
-6. jika berhasil, buka browser dan ketik 'http://localhost:8080'
+6. jika berhasil, buka browser, pergi ke address 'http://localhost:8080'
